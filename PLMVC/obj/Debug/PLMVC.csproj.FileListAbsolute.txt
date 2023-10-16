@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\PLMVC\bin\PLMVC.dll.config
 C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\PLMVC\bin\PLMVC.dll
 C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\PLMVC\bin\PLMVC.pdb
@@ -89,3 +90,96 @@ C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\PL
 C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\PLMVC\obj\Debug\PLMVC.csproj.CopyComplete
 C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\PLMVC\obj\Debug\PLMVC.dll
 C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\PLMVC\obj\Debug\PLMVC.pdb
+=======
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\PLMVC.dll.config
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\PLMVC.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\PLMVC.pdb
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\csc.exe
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\csc.exe.config
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\csc.rsp
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\csi.exe
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\csi.exe.config
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\csi.rsp
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.AppContext.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Console.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\vbc.exe
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\vbc.exe.config
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\vbc.rsp
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\Antlr3.Runtime.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\BL.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\ML.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\Newtonsoft.Json.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.Helpers.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.Mvc.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.Optimization.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.Razor.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.WebPages.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\WebGrease.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\BL.pdb
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\ML.pdb
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.Helpers.xml
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.Mvc.xml
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.Optimization.xml
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.Razor.xml
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.WebPages.xml
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\Newtonsoft.Json.xml
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\Antlr3.Runtime.pdb
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\obj\Debug\PLMVC.csproj.AssemblyReference.cache
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\obj\Debug\PLMVC.csproj.CoreCompileInputs.cache
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\obj\Debug\PLMVC.csproj.CopyComplete
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\obj\Debug\PLMVC.dll
+C:\Users\digis\source\repos\IsaacJorgeLeekenGroup\PLMVC\obj\Debug\PLMVC.pdb
+C:\Users\digis\Source\Repos\IsaacJorgeLeekenGroup\PLMVC\bin\EntityFramework.dll
+C:\Users\digis\Source\Repos\IsaacJorgeLeekenGroup\PLMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\digis\Source\Repos\IsaacJorgeLeekenGroup\PLMVC\bin\DL.dll
+C:\Users\digis\Source\Repos\IsaacJorgeLeekenGroup\PLMVC\bin\BL.dll.config
+C:\Users\digis\Source\Repos\IsaacJorgeLeekenGroup\PLMVC\bin\EntityFramework.xml
+C:\Users\digis\Source\Repos\IsaacJorgeLeekenGroup\PLMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\digis\Source\Repos\IsaacJorgeLeekenGroup\PLMVC\bin\DL.pdb
+C:\Users\digis\Source\Repos\IsaacJorgeLeekenGroup\PLMVC\bin\DL.dll.config
+>>>>>>> b01dac8ffd4cabc701da2371c8c2fe9c25bc4e32
