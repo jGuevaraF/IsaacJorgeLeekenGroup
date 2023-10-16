@@ -24,6 +24,7 @@ namespace SL.Controllers
             }
         }
 
+
         [Route("{idEmpleado}")]
         [HttpGet]
         public IHttpActionResult GetById(int idEmpleado)
