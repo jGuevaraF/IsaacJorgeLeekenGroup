@@ -10,7 +10,7 @@ namespace BL
 {
     public class Empleado
     {
-        public ML.Result GetAll()
+        public static ML.Result GetAll()
         {
             ML.Result result = new ML.Result();
             try
@@ -148,7 +148,7 @@ namespace BL
             return result;
         }
 
-        public static ML.Result GetById(ML.Empleado empleado)
+        public static ML.Result GetById(int idEmpleado)
         {
             ML.Result result = new ML.Result();
             try
@@ -157,7 +157,7 @@ namespace BL
                 {
                     var query = (from Empleados in context.Empleadoes
                                  join Entidades in context.CatEntidadFederativas on Empleados.IdEstado equals Entidades.Id
-                                 where Empleados.Id == empleado.id
+                                 where Empleados.Id == idEmpleado
                                  select new
                                  {
                                      Id = Empleados.Id,
