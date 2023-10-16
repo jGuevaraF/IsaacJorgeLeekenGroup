@@ -12,7 +12,7 @@ namespace SL.Controllers
     {
         [Route("")]
         [HttpGet]
-        public IHttpActionResult GetAll(ML.Entidad entidad)
+        public IHttpActionResult GetAll()
         {
 
             ML.Result result = BL.EntidadFederativa.GetAll();
