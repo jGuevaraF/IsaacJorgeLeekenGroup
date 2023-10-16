@@ -10,7 +10,7 @@ namespace BL
 {
     public class Empleado
     {
-        public ML.Result GetAll()
+        public static ML.Result GetAll()
         {
             ML.Result result = new ML.Result();
             try
