@@ -12,13 +12,21 @@ function modalClose() {
     $('#modal').modal("hide");
 }
 
+function limpiarModal() {
+    $('#txtNumeroNomina').val('');
+    $('#txtNombre').val('');
+    $('#txtApPaterno').val('');
+    $('#txtApMaterno').val('');
+    $('#ddlEntidad option[value="0"]').attr("selected", true);
+}
+
 
 function GetAll() {
     $.ajax({
 
         url: 'http://localhost:50952/api/empleado',
         type: 'GET',
-        success: function (result) { 
+        success: function (result) {
             console.log(result)
             $('#tablaEmpleado tbody').empty();
             $.each(result.Objects, function (i, empleado) {
@@ -41,7 +49,7 @@ function GetAll() {
             });
         },
         error: function (result) {
-            alert('Error en la consulta.' + result.responseJSON.ErrorMessage);
+            alert('Error en la consulta.' + result.responseJSON.ErrorMessage); //es un error de JSON, y es porque puede venir vacio o null
         }
     });
 };
@@ -55,7 +63,7 @@ function GetAllEntidad() {
             console.log(result)
             $.each(result.Objects, function (i, entidad) {
                 var filas =
-                    '<option value="' + entidad.Id + '">'+entidad.Estado+'</option>';
+                    '<option value="' + entidad.Id + '">' + entidad.Estado + '</option>';
                 $("#ddlEntidad").append(filas);
             });
         },
@@ -63,4 +71,39 @@ function GetAllEntidad() {
             alert('Error .' + result.responseJSON.ErrorMessage);
         }
     });
+}
+
+function Add() {
+
+
+    var json = {
+        NumeroNomina: $('#txtNumeroNomina').val(),
+        Nombre: $('#txtNombre').val(),
+        ApellidoPaterno: $('#txtApPaterno').val(),
+        ApellidoMaterno: $('#txtApMaterno').val(),
+        Entidad: {
+            "Id": Math.floor($('#ddlEntidad').val())
+        }
+    }
+
+
+    $.ajax({
+
+        url: 'http://localhost:50952/api/empleado',
+        type: 'POST',
+        datatype: 'JSON',
+        data: json,
+        success: function (result) {
+            console.log(result);
+            alert("Empleado dado de alta correctamente");
+            modalClose();
+            limpiarModal();
+            GetAll();
+        },
+        error: function (result) {
+            console.log(result);
+            alert('Error en la consulta.' + result.responseJSON.ErrorMessage); //es un error de JSON, y es porque puede venir vacio o null
+        }
+    });
+
 }

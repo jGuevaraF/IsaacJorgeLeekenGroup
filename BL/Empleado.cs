@@ -84,13 +84,14 @@ namespace BL
                 {
                     //creamos un objeto de tipo DL, de mi modelo de EF 
                     DL.Empleado add = new DL.Empleado();
-                    add.Id = empleado.id;
+                    //add.Id = empleado.id;
                     add.NumeroNomina = empleado.NumeroNomina;
                     add.Nombre = empleado.Nombre;
                     add.ApellidoPaterno = empleado.ApellidoPaterno;
                     add.ApellidoMaterno = empleado.ApellidoMaterno;
                     add.IdEstado = empleado.Entidad.Id;
 
+                    context.Empleadoes.Add(add);
                     int filasAfectadas = context.SaveChanges();
 
                     if (filasAfectadas > 0) result.Correct = true;
