@@ -12,7 +12,17 @@ function modalClose() {
     $('#modal').modal("hide");
 }
 
+function guardar() {
+    var idEmpleado = $('#txtid').val()
+    if (idEmpleado == 0) {
+        Add();
+    } else {
+        Update();
+    }
+}
+
 function limpiarModal() {
+    $('#txtid').val('');
     $('#txtNumeroNomina').val('');
     $('#txtNombre').val('');
     $('#txtApPaterno').val('');
@@ -76,7 +86,7 @@ function GetAllEntidad() {
 
 function Eliminar(Id) {
 
-    if (confirm("¿Estas seguro de eliminar la SubCategoria seleccionada?")) {
+    if (confirm("¿Estas seguro de eliminar el Empleado?")) {
         $.ajax({
             type: 'DELETE',
             url: 'http://localhost:50952/api/empleado/' + Id,
@@ -97,6 +107,7 @@ function GetById(id) {
         type: 'GET',
         url: 'http://localhost:50952/api/empleado/' + id,
         success: function (result) {
+            limpiarModal()
 
             $('#txtid').val(result.Object.id);
             $('#txtNumeroNomina').val(result.Object.NumeroNomina);
@@ -138,8 +149,9 @@ function Update() {
         datatype: 'json',
         data: Empleado,
         success: function (result) {
-           
-           
+            alert("Empleado se ha actualizado correctamente");
+            modalClose();
+            limpiarModal();
             GetAll();
             
         },
@@ -150,7 +162,7 @@ function Update() {
 
 };
 
-}
+
 
 function Add() {
 
@@ -173,7 +185,6 @@ function Add() {
         datatype: 'JSON',
         data: json,
         success: function (result) {
-            console.log(result);
             alert("Empleado dado de alta correctamente");
             modalClose();
             limpiarModal();
