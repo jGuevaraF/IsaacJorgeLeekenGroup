@@ -10,3 +10,27 @@ C:\Users\digis\Source\Repos\IsaacJorgeLeekenGroup\DL\bin\Debug\EntityFramework.S
 C:\Users\digis\Source\Repos\IsaacJorgeLeekenGroup\DL\bin\Debug\EntityFramework.xml
 C:\Users\digis\Source\Repos\IsaacJorgeLeekenGroup\DL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\digis\Source\Repos\IsaacJorgeLeekenGroup\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\DL\bin\Debug\DL.dll.config
+C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\DL\bin\Debug\DL.dll
+C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\DL\bin\Debug\DL.pdb
+C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\DL\bin\Debug\EntityFramework.dll
+C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\DL\bin\Debug\EntityFramework.xml
+C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\DL\obj\Debug\DL.dll
+C:\Users\digis\OneDrive\Documentos\Jorge Guevara Flores\IsaacJorgeLekkenGroup\DL\obj\Debug\DL.pdb
+C:\Users\digis\Documents\Isaac Martínez Martínez\repos3\DL\bin\Debug\DL.dll.config
+C:\Users\digis\Documents\Isaac Martínez Martínez\repos3\DL\bin\Debug\DL.dll
+C:\Users\digis\Documents\Isaac Martínez Martínez\repos3\DL\bin\Debug\DL.pdb
+C:\Users\digis\Documents\Isaac Martínez Martínez\repos3\DL\bin\Debug\EntityFramework.dll
+C:\Users\digis\Documents\Isaac Martínez Martínez\repos3\DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\digis\Documents\Isaac Martínez Martínez\repos3\DL\bin\Debug\EntityFramework.xml
+C:\Users\digis\Documents\Isaac Martínez Martínez\repos3\DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\digis\Documents\Isaac Martínez Martínez\repos3\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\digis\Documents\Isaac Martínez Martínez\repos3\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\digis\Documents\Isaac Martínez Martínez\repos3\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\digis\Documents\Isaac Martínez Martínez\repos3\DL\obj\Debug\DL.dll
+C:\Users\digis\Documents\Isaac Martínez Martínez\repos3\DL\obj\Debug\DL.pdb
