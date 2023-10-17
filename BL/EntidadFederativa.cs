@@ -32,6 +32,8 @@ namespace BL
 
                             result.Objects.Add(entidad);
                         }
+
+                        result.Correct = true;
                     }
                     else
                     {

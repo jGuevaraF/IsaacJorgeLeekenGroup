@@ -1,4 +1,10 @@
-﻿function showModal() {
+﻿
+$(document).ready(function () { //click
+    GetAll();
+    GetAllEntidad();
+});
+
+function showModal() {
     $('#modal').modal("show");
 }
 
@@ -6,16 +12,13 @@ function modalClose() {
     $('#modal').modal("hide");
 }
 
-$(document).ready(function () { //click
-    GetAll();
-});
 
 function GetAll() {
     $.ajax({
 
         url: 'http://localhost:50952/api/empleado',
         type: 'GET',
-        success: function (result) { //200 OK 
+        success: function (result) { 
             console.log(result)
             $('#tablaEmpleado tbody').empty();
             $.each(result.Objects, function (i, empleado) {
@@ -42,3 +45,22 @@ function GetAll() {
         }
     });
 };
+
+function GetAllEntidad() {
+    $.ajax({
+
+        url: 'http://localhost:50952/api/entidad',
+        type: 'GET',
+        success: function (result) {
+            console.log(result)
+            $.each(result.Objects, function (i, entidad) {
+                var filas =
+                    '<option value="' + entidad.Id + '">'+entidad.Estado+'</option>';
+                $("#ddlEntidad").append(filas);
+            });
+        },
+        error: function (result) {
+            alert('Error .' + result.responseJSON.ErrorMessage);
+        }
+    });
+}
