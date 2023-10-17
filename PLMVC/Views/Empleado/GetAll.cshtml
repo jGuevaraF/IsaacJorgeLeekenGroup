@@ -42,6 +42,9 @@
             <div class="modal-body">
                 <form>
                     <div class="form-group d-flex justify-content-center m-2">
+                        <input  class="form-control" id="txtid" placeholder="Id"  type="hidden"/>
+                    </div>
+                    <div class="form-group d-flex justify-content-center m-2">
                         <input type="text" class="form-control" id="txtNumeroNomina" placeholder="Número de Nómina" />
                     </div>
                     <div class="form-group d-flex justify-content-center m-2">
@@ -65,6 +68,33 @@
             <div class="modal-footer">
                 <button type="button" class="btn glyphicon glyphicon-pencil" id="btnUpdate">Guardar</button>
                 <button type="button" class="btn btn-danger" data-dismiss="modal" onclick="modalClose()">Cancelar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-5">
+
+            <div class="modal" id="myModal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">Detalle</h4>
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <h5>
+                                Acción completada con éxito
+                            </h5>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-primary" value="Regresar" data-dismiss="modal">Regresar</button>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
